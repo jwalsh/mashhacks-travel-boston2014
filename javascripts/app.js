@@ -14,9 +14,16 @@ window.fbAsyncInit = function() {
       // Mocked response
       testAPI();
     } else if (response.status === 'not_authorized') {
-      FB.login();
+            FB.login(function(response) {
+                // handle the response
+            }, {scope: 'email,user_checkins,friends_checkins'});
+
     } else {
-      FB.login();
+            FB.login(function(response) {
+                // handle the response
+            }, {scope: 'email,user_checkins,friends_checkins'});
+
+
     }
   });
 
@@ -46,19 +53,13 @@ var renderInitialGraph = function() {
       '/me',
       function(response) {
         if (response && !response.error) {
-          alert(JSON.stringify(response));
-            FB.login(function(response) {
-                // handle the response
-            }, {scope: 'email,user_checkings,friends_checkins'});
-
 
             var query = 'SELECT app_id, timestamp, coords FROM checkin WHERE author_uid in(SELECT uid2 FROM friend WHERE uid1= ' + response.id + ')';
-            alert(query);
+
             FB.api(
                 "/fql?q=" + encodeURIComponent(query),
                 function(data) {
                     console.log(data);
-
                 });
 
            FB.api({
