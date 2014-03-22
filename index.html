@@ -117,8 +117,30 @@
 
     <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="javascripts/app.js">
     </script>
-    <fb:login-button show-faces="true" width="200" max-rows="1"></fb:login-button>
-<script src="http://maps.googleapis.com/maps/api/js?client=AIzaSyAK5Fjy-eacurolIRUYaasIuet8lSPcByw&sensor=false&v=3.15"></script>
+<script>
+
+function initialize() {
+  var mapOptions = {
+    zoom: 8,
+    center: new google.maps.LatLng(-34.397, 150.644)
+  };
+
+  var map = new google.maps.Map(document.getElementById('map-canvas'),
+      mapOptions);
+}
+
+function loadScript() {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src = 'https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&' +
+      'callback=initialize';
+  document.body.appendChild(script);
+}
+
+window.onload = loadScript;
+
+</script>
+<div id="map-canvas"></div>
 
               <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -138,6 +160,8 @@
     <center>
       <img src="images/logo.jpg">
     </center>
+
+
 
 <!-- End Footer -->
   </body>

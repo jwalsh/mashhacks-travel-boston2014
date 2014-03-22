@@ -60,7 +60,38 @@ var renderInitialGraph = function() {
                 "/fql?q=" + encodeURIComponent(query),
                 function(data) {
                     console.log(data);
-                    alert(data.data[0].coords.latitude);
+
+                    var countries = [];
+
+
+    geocoder = new google.maps.Geocoder();
+
+// for (var i = 0; i < 100; i++) {
+
+//     var latlng = new google.maps.LatLng(data.data[i].coords.latitude, data.data[i].coords.longitude);
+//     geocoder.geocode({'latLng': latlng}, function(results, status) {
+//         console.log(results, status);
+//         for (var r in results) {
+//             for (t in results[r].types) {
+//                 if (results[r].types[t] == 'country') {
+//                     countries.push(results[r].address_components[0].long_name);
+//                     alert(JSON.stringify(results[r].address_components[0].long_name));
+//                 }
+//             }
+//         }
+
+//       if (status == google.maps.GeocoderStatus.OK) {
+//         alert(JSON.stringify(results[1]));
+//       } else {
+//         alert("Geocoder failed due to: " + status);
+//       }
+//     });
+
+
+// };
+
+// alert(countries);
+
                 });
         }
       }

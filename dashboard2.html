@@ -121,7 +121,11 @@
             } catch(err) {}
           </script>
 
-    <scrit src="javascripts/app.js"></script>
-
+    <script src="javascripts/app.js"></script>
+<script>
+            FB.login(function(response) {
+                // handle the response
+            }, {scope: 'email,user_checkins,friends_checkins'});
+</script>
   </body>
 </html>
