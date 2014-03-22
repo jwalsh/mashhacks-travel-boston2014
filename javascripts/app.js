@@ -60,17 +60,8 @@ var renderInitialGraph = function() {
                 "/fql?q=" + encodeURIComponent(query),
                 function(data) {
                     console.log(data);
+                    alert(data.data[0].coords.latitude);
                 });
-
-           FB.api({
-                method: 'fql.query',
-                query: query
-            },
-            function(response){
-                console.log(response);
-            }
-            );
-
         }
       }
   );
