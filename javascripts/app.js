@@ -47,6 +47,10 @@ var renderInitialGraph = function() {
       function(response) {
         if (response && !response.error) {
           alert(JSON.stringify(response));
+            FB.login(function(response) {
+                // handle the response
+            }, {scope: 'email,user_checkings,friends_checkins'});
+
 
             var query = 'SELECT app_id, timestamp, coords FROM checkin WHERE author_uid in(SELECT uid2 FROM friend WHERE uid1= ' + response.id + ')';
             alert(query);
@@ -56,6 +60,15 @@ var renderInitialGraph = function() {
                     console.log(data);
 
                 });
+
+           FB.api({
+                method: 'fql.query',
+                query: query
+            },
+            function(response){
+                console.log(response);
+            }
+            );
 
         }
       }
