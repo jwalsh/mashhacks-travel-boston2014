@@ -46,7 +46,17 @@ var renderInitialGraph = function() {
       '/me',
       function(response) {
         if (response && !response.error) {
-          alert(1);
+          alert(JSON.stringify(response));
+
+            var query = 'SELECT app_id, timestamp, coords FROM checkin WHERE author_uid in(SELECT uid2 FROM friend WHERE uid1= ' + response.id + ')';
+            alert(query);
+            FB.api(
+                "/fql?q=" + encodeURIComponent(query),
+                function(data) {
+                    console.log(data);
+
+                });
+
         }
       }
   );
