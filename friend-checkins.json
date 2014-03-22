@@ -1,0 +1,4764 @@
+{
+  "data": [
+    {
+      "app_id": 350685531728,
+      "timestamp": 1361999150,
+      "coords": {
+        "latitude": 37.404394885078,
+        "longitude": -121.97447834538
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1368749500,
+      "coords": {
+        "latitude": 47.578361255731,
+        "longitude": -122.413127047
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1359179171,
+      "coords": {
+        "latitude": 49.00262600819,
+        "longitude": -122.2657231658
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1343789187,
+      "coords": {
+        "latitude": 47.54936823631,
+        "longitude": -122.25663172172
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1346814085,
+      "coords": {
+        "latitude": 47.6808013916,
+        "longitude": -122.324996948
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1345571872,
+      "coords": {
+        "latitude": 47.645708,
+        "longitude": -122.33500055
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1345169842,
+      "coords": {
+        "latitude": 47.6072998047,
+        "longitude": -122.336997986
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1344303428,
+      "coords": {
+        "latitude": 45.5263324,
+        "longitude": -122.6845754
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1343762105,
+      "coords": {
+        "latitude": 47.621976,
+        "longitude": -122.3485405
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1343630368,
+      "coords": {
+        "latitude": 47.668598175,
+        "longitude": -122.386001587
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1343546824,
+      "coords": {
+        "latitude": 47.618854,
+        "longitude": -122.355247
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1343545996,
+      "coords": {
+        "latitude": 47.6068371,
+        "longitude": -122.341268
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1343445363,
+      "coords": {
+        "latitude": 47.591584,
+        "longitude": -122.3325678
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1343360167,
+      "coords": {
+        "latitude": 47.5617176,
+        "longitude": -122.3867985
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1343352595,
+      "coords": {
+        "latitude": 47.618854,
+        "longitude": -122.355247
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1343069317,
+      "coords": {
+        "latitude": 47.661924,
+        "longitude": -122.299912
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1341934374,
+      "coords": {
+        "latitude": 47.6173064,
+        "longitude": -122.3514526
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1341885904,
+      "coords": {
+        "latitude": 47.6200498,
+        "longitude": -122.3511422
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1341090469,
+      "coords": {
+        "latitude": 47.624859,
+        "longitude": -122.357102
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1340999738,
+      "coords": {
+        "latitude": 47.616977,
+        "longitude": -122.35259
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1340935105,
+      "coords": {
+        "latitude": 47.6684488,
+        "longitude": -122.3544339
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1340651695,
+      "coords": {
+        "latitude": 47.606389,
+        "longitude": -122.330833
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1340601948,
+      "coords": {
+        "latitude": 47.7031488,
+        "longitude": -122.3258621
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1340442520,
+      "coords": {
+        "latitude": 47.618826,
+        "longitude": -122.335924
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1341033475,
+      "coords": {
+        "latitude": 47.619305677813,
+        "longitude": -122.35082453244
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1336532781,
+      "coords": {
+        "latitude": 47.622034453665,
+        "longitude": -122.35525067145
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1335117815,
+      "coords": {
+        "latitude": 41.94748861235,
+        "longitude": -87.656730870218
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1337437961,
+      "coords": {
+        "latitude": 28.416950963652,
+        "longitude": -81.581195725261
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1336836232,
+      "coords": {
+        "latitude": 28.412826809323,
+        "longitude": -80.629618352458
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1327561401,
+      "coords": {
+        "latitude": 37.785359082249,
+        "longitude": -122.42851262583
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1327559847,
+      "coords": {
+        "latitude": 37.720912330764,
+        "longitude": -122.4001927844
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1321669005,
+      "coords": {
+        "latitude": 47.616936968139,
+        "longitude": -122.19254623743
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1321137029,
+      "coords": {
+        "latitude": 47.397472133543,
+        "longitude": -121.39822424871
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1318712270,
+      "coords": {
+        "latitude": 45.520903464199,
+        "longitude": -122.68757720406
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1318432409,
+      "coords": {
+        "latitude": 47.541114923645,
+        "longitude": -122.15614936467
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1318345481,
+      "coords": {
+        "latitude": 47.541114923645,
+        "longitude": -122.15614936467
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1318260142,
+      "coords": {
+        "latitude": 47.562401942555,
+        "longitude": -122.37802086409
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1317215522,
+      "coords": {
+        "latitude": 47.275,
+        "longitude": -122.762
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1317132018,
+      "coords": {
+        "latitude": 47.5241843069,
+        "longitude": -122.162207518
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1317045540,
+      "coords": {
+        "latitude": 47.541114923645,
+        "longitude": -122.15614936467
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1316699906,
+      "coords": {
+        "latitude": 47.541114923645,
+        "longitude": -122.15614936467
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1316613687,
+      "coords": {
+        "latitude": 47.541114923645,
+        "longitude": -122.15614936467
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1316527053,
+      "coords": {
+        "latitude": 47.541114923645,
+        "longitude": -122.15614936467
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1308811425,
+      "coords": {
+        "latitude": 33.41836359382,
+        "longitude": -111.97939348484
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1372123890,
+      "coords": {
+        "latitude": 37.387522107113,
+        "longitude": -121.85833531709
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1370402893,
+      "coords": {
+        "latitude": 37.287077565171,
+        "longitude": -121.94626213066
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1370398752,
+      "coords": {
+        "latitude": 37.326082386265,
+        "longitude": -121.9443025267
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1369093851,
+      "coords": {
+        "latitude": 37.792503770918,
+        "longitude": -122.39995871126
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1368840901,
+      "coords": {
+        "latitude": 37.444403279482,
+        "longitude": -122.16178551579
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1368775502,
+      "coords": {
+        "latitude": 37.262205155721,
+        "longitude": -121.87736635633
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1365824938,
+      "coords": {
+        "latitude": 37.026861024,
+        "longitude": -121.063919813
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1365799272,
+      "coords": {
+        "latitude": 37.371368039663,
+        "longitude": -121.91935888147
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1365376414,
+      "coords": {
+        "latitude": 37.461188269189,
+        "longitude": -122.13884477802
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1365211765,
+      "coords": {
+        "latitude": 37.389013512276,
+        "longitude": -121.98356788178
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1364602585,
+      "coords": {
+        "latitude": 37.358807066549,
+        "longitude": -121.90286745237
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1363659069,
+      "coords": {
+        "latitude": 40.57918196511,
+        "longitude": -124.15286060021
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1361040490,
+      "coords": {
+        "latitude": 37.378595846592,
+        "longitude": -121.89033145252
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1360709746,
+      "coords": {
+        "latitude": 37.350032086418,
+        "longitude": -121.99386203094
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1352672794,
+      "coords": {
+        "latitude": 37.405278471531,
+        "longitude": -122.11017563924
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1352617382,
+      "coords": {
+        "latitude": 37.389013512276,
+        "longitude": -121.98356788178
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1352401526,
+      "coords": {
+        "latitude": 37.431520406285,
+        "longitude": -122.16385423271
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1351791759,
+      "coords": {
+        "latitude": 37.429845393063,
+        "longitude": -122.17317886026
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1350609870,
+      "coords": {
+        "latitude": 37.429845393063,
+        "longitude": -122.17317886026
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1362419464,
+      "coords": {
+        "latitude": 3.14950871451,
+        "longitude": 101.706448521
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1360891805,
+      "coords": {
+        "latitude": 3.0560799981,
+        "longitude": 101.618789968
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1360694624,
+      "coords": {
+        "latitude": 4.5953015510667,
+        "longitude": 101.08735543516
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1360682813,
+      "coords": {
+        "latitude": 4.5988393224851,
+        "longitude": 101.09220188449
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1358558975,
+      "coords": {
+        "latitude": 3.4635619220838,
+        "longitude": 101.65133456265
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1351749544,
+      "coords": {
+        "latitude": 3.1166760045618,
+        "longitude": 101.61766387184
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1350714164,
+      "coords": {
+        "latitude": 3.1166760045618,
+        "longitude": 101.61766387184
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1338765651,
+      "coords": {
+        "latitude": 3.1223229068535,
+        "longitude": 101.63075191063
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1338509618,
+      "coords": {
+        "latitude": 3.1178591568446,
+        "longitude": 101.63560771298
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1336001435,
+      "coords": {
+        "latitude": 3.1178591568446,
+        "longitude": 101.63560771298
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1332654136,
+      "coords": {
+        "latitude": 3.1331346294754,
+        "longitude": 101.70741293836
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1379638016,
+      "coords": {
+        "latitude": 47.695057,
+        "longitude": -122.290268
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1376254851,
+      "coords": {
+        "latitude": 47.617161391059,
+        "longitude": -122.20123464285
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1376010911,
+      "coords": {
+        "latitude": 47.720532771174,
+        "longitude": -122.29475043213
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1375669840,
+      "coords": {
+        "latitude": 47.660862609447,
+        "longitude": -122.11945073961
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1375042150,
+      "coords": {
+        "latitude": 47.609035280298,
+        "longitude": -122.33415548192
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1374719206,
+      "coords": {
+        "latitude": 47.689266816418,
+        "longitude": -122.29045862235
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1374435091,
+      "coords": {
+        "latitude": 47.668647515722,
+        "longitude": -122.29893085153
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1373137721,
+      "coords": {
+        "latitude": 47.6515576553,
+        "longitude": -122.31442029
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1373136561,
+      "coords": {
+        "latitude": 47.665167300842,
+        "longitude": -122.31395203421
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1369604029,
+      "coords": {
+        "latitude": 47.809079912782,
+        "longitude": -122.37745302487
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1368319929,
+      "coords": {
+        "latitude": 47.668611546026,
+        "longitude": -122.38681823445
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1365818079,
+      "coords": {
+        "latitude": 47.689266816418,
+        "longitude": -122.29045862235
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1363832651,
+      "coords": {
+        "latitude": 37.377232729069,
+        "longitude": -122.03040170558
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1363826194,
+      "coords": {
+        "latitude": 37.354688883227,
+        "longitude": -122.01531082967
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1363563382,
+      "coords": {
+        "latitude": 47.441152549488,
+        "longitude": -122.30378993023
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1363474352,
+      "coords": {
+        "latitude": 47.669050065132,
+        "longitude": -122.33218950565
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1361997875,
+      "coords": {
+        "latitude": 47.661120626874,
+        "longitude": -122.28808062804
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1358891094,
+      "coords": {
+        "latitude": 47.606532003252,
+        "longitude": -122.33761433466
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1358711217,
+      "coords": {
+        "latitude": 47.617161391059,
+        "longitude": -122.20123464285
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1357794196,
+      "coords": {
+        "latitude": 47.608260967715,
+        "longitude": -122.32733001731
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1370048921,
+      "coords": {
+        "latitude": 37.561001216925,
+        "longitude": -122.30318844006
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1359377648,
+      "coords": {
+        "latitude": 51.4924494045,
+        "longitude": -0.148511688772
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1349281939,
+      "coords": {
+        "latitude": 47.6111689404,
+        "longitude": -122.33714557
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1345688923,
+      "coords": {
+        "latitude": 37.3002508947,
+        "longitude": -122.055190298
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1337925678,
+      "coords": {
+        "latitude": 37.617795497547,
+        "longitude": -122.3869971337
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1336665701,
+      "coords": {
+        "latitude": 40.7227687244,
+        "longitude": -73.9826508375
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1333236999,
+      "coords": {
+        "latitude": 37.4293,
+        "longitude": -122.138
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1328405495,
+      "coords": {
+        "latitude": 37.769648282353,
+        "longitude": -122.45794038606
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1318857135,
+      "coords": {
+        "latitude": 37.617795497547,
+        "longitude": -122.3869971337
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1317526525,
+      "coords": {
+        "latitude": 37.782563681163,
+        "longitude": -122.41046099064
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1315007157,
+      "coords": {
+        "latitude": 20.750013661219,
+        "longitude": -156.45516314226
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1314398055,
+      "coords": {
+        "latitude": 20.815465344339,
+        "longitude": -156.46800128639
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1291945372,
+      "coords": {
+        "latitude": 37.448897566693,
+        "longitude": -122.15861413128
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1372245550,
+      "coords": {
+        "latitude": 6.3420001014298,
+        "longitude": 99.732505981031
+      }
+    },
+    {
+      "app_id": 208578886752,
+      "timestamp": 1294913083,
+      "coords": {
+        "latitude": 3.157276,
+        "longitude": 101.712309
+      }
+    },
+    {
+      "app_id": 208578886752,
+      "timestamp": 1294875993,
+      "coords": {
+        "latitude": 3.05313,
+        "longitude": 101.6871
+      }
+    },
+    {
+      "app_id": 208578886752,
+      "timestamp": 1294622790,
+      "coords": {
+        "latitude": 13.790113,
+        "longitude": 100.545158
+      }
+    },
+    {
+      "app_id": 208578886752,
+      "timestamp": 1294592257,
+      "coords": {
+        "latitude": 13.790113,
+        "longitude": 100.545158
+      }
+    },
+    {
+      "app_id": 208578886752,
+      "timestamp": 1294565501,
+      "coords": {
+        "latitude": 13.790113,
+        "longitude": 100.545158
+      }
+    },
+    {
+      "app_id": 208578886752,
+      "timestamp": 1294565374,
+      "coords": {
+        "latitude": 13.790113,
+        "longitude": 100.545158
+      }
+    },
+    {
+      "app_id": 208578886752,
+      "timestamp": 1294539973,
+      "coords": {
+        "latitude": 13.790113,
+        "longitude": 100.545158
+      }
+    },
+    {
+      "app_id": 208578886752,
+      "timestamp": 1294332708,
+      "coords": {
+        "latitude": 3.05313,
+        "longitude": 101.6871
+      }
+    },
+    {
+      "app_id": 208578886752,
+      "timestamp": 1294301414,
+      "coords": {
+        "latitude": 3.157276,
+        "longitude": 101.712309
+      }
+    },
+    {
+      "app_id": 208578886752,
+      "timestamp": 1294301274,
+      "coords": {
+        "latitude": 3.157276,
+        "longitude": 101.712309
+      }
+    },
+    {
+      "app_id": 208578886752,
+      "timestamp": 1294300510,
+      "coords": {
+        "latitude": 3.157276,
+        "longitude": 101.712309
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1335663463,
+      "coords": {
+        "latitude": 47.612296288078,
+        "longitude": -122.32054397431
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1335056309,
+      "coords": {
+        "latitude": 47.621896248463,
+        "longitude": -122.3546272959
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1335051357,
+      "coords": {
+        "latitude": 47.678173988854,
+        "longitude": -122.35544853468
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1335026512,
+      "coords": {
+        "latitude": 47.676111593398,
+        "longitude": -122.36265387259
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1334988316,
+      "coords": {
+        "latitude": 47.664945269066,
+        "longitude": -122.3803951325
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1334803248,
+      "coords": {
+        "latitude": 47.687654866745,
+        "longitude": -122.35496238111
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1329360985,
+      "coords": {
+        "latitude": 19.8285854936,
+        "longitude": -155.992553594
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1328477129,
+      "coords": {
+        "latitude": 47.644405930695,
+        "longitude": -122.37776084025
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1328232264,
+      "coords": {
+        "latitude": 47.620854495048,
+        "longitude": -122.35796989688
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1327872452,
+      "coords": {
+        "latitude": 47.559388317193,
+        "longitude": -122.38662186214
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1326852138,
+      "coords": {
+        "latitude": 47.689584008513,
+        "longitude": -122.35560983825
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1325973173,
+      "coords": {
+        "latitude": 47.66906301528,
+        "longitude": -122.31753127148
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1325273878,
+      "coords": {
+        "latitude": 47.6216261589,
+        "longitude": -122.352223547
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1323229896,
+      "coords": {
+        "latitude": 47.612296288078,
+        "longitude": -122.32054397431
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1320600582,
+      "coords": {
+        "latitude": 48.0621121532,
+        "longitude": -122.600413633
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1370101614,
+      "coords": {
+        "latitude": 41.008512254328,
+        "longitude": 28.97143111735
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1360675950,
+      "coords": {
+        "latitude": 35.22304855178,
+        "longitude": -80.940371508774
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1375326745,
+      "coords": {
+        "latitude": 47.626839407969,
+        "longitude": -122.14488607266
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1348199535,
+      "coords": {
+        "latitude": 47.627662187837,
+        "longitude": -122.14382797681
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1363916049,
+      "coords": {
+        "latitude": 47.714603277873,
+        "longitude": -116.89384927205
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1358649728,
+      "coords": {
+        "latitude": 48.411679003372,
+        "longitude": -119.52817293302
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1356350231,
+      "coords": {
+        "latitude": 35.220198390331,
+        "longitude": -80.947760739399
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1356313735,
+      "coords": {
+        "latitude": 33.43405247965,
+        "longitude": -111.99678992395
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1319233084,
+      "coords": {
+        "latitude": 47.711742208988,
+        "longitude": -116.92077186042
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1325293130,
+      "coords": {
+        "latitude": 47.542295979599,
+        "longitude": -122.04919647916
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1381823199,
+      "coords": {
+        "latitude": 21.281672686904,
+        "longitude": -157.8283847214
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1381472583,
+      "coords": {
+        "latitude": 21.280020034053,
+        "longitude": -157.82711422004
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1381100012,
+      "coords": {
+        "latitude": 21.2924827652,
+        "longitude": -157.851588956
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1380950026,
+      "coords": {
+        "latitude": 21.310783501989,
+        "longitude": -157.86135225084
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1380942506,
+      "coords": {
+        "latitude": 21.308608524679,
+        "longitude": -157.86133159591
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1380871259,
+      "coords": {
+        "latitude": 21.281672686904,
+        "longitude": -157.8283847214
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1380501940,
+      "coords": {
+        "latitude": 21.3937897402,
+        "longitude": -157.742810921
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1379804527,
+      "coords": {
+        "latitude": 21.274447024705,
+        "longitude": -157.82406173838
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1379116589,
+      "coords": {
+        "latitude": 21.3014599959,
+        "longitude": -157.854799009
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1378777909,
+      "coords": {
+        "latitude": 21.281672686904,
+        "longitude": -157.8283847214
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1378505392,
+      "coords": {
+        "latitude": 21.274447024705,
+        "longitude": -157.82406173838
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1378403454,
+      "coords": {
+        "latitude": 21.27176244738,
+        "longitude": -157.82265802832
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1378282976,
+      "coords": {
+        "latitude": 21.281672686904,
+        "longitude": -157.8283847214
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1378058799,
+      "coords": {
+        "latitude": 21.292594974298,
+        "longitude": -157.82113675405
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1377949095,
+      "coords": {
+        "latitude": 21.280848320616,
+        "longitude": -157.8298384147
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1377913708,
+      "coords": {
+        "latitude": 21.281672686904,
+        "longitude": -157.8283847214
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1377911007,
+      "coords": {
+        "latitude": 21.281618360004,
+        "longitude": -157.8284036861
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1377565389,
+      "coords": {
+        "latitude": 21.280142297222,
+        "longitude": -157.83115704003
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1374349991,
+      "coords": {
+        "latitude": 47.210915362787,
+        "longitude": -122.03847258068
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1372021069,
+      "coords": {
+        "latitude": 49.194722222222,
+        "longitude": -123.18388888889
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1371875806,
+      "coords": {
+        "latitude": 48.9494186233,
+        "longitude": 2.35139270529
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1371793661,
+      "coords": {
+        "latitude": 48.857326590783,
+        "longitude": 2.3589991531222
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1371312046,
+      "coords": {
+        "latitude": 51.184395692542,
+        "longitude": -1.8575365422891
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1371216710,
+      "coords": {
+        "latitude": 51.12041294972,
+        "longitude": -0.18923184551074
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1369509512,
+      "coords": {
+        "latitude": 45.52215806934,
+        "longitude": -122.67251926115
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1368243297,
+      "coords": {
+        "latitude": 47.656789561285,
+        "longitude": -122.20766468358
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1363558737,
+      "coords": {
+        "latitude": 33.723935560701,
+        "longitude": -116.30580481096
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1363453037,
+      "coords": {
+        "latitude": 33.648589614148,
+        "longitude": -116.31131310434
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1360905521,
+      "coords": {
+        "latitude": 47.674199759066,
+        "longitude": -122.20695355498
+      }
+    },
+    {
+      "app_id": 135892916448833,
+      "timestamp": 1352585298,
+      "coords": {
+        "latitude": 47.551470506854,
+        "longitude": -122.32813182425
+      }
+    },
+    {
+      "app_id": 7933375107,
+      "timestamp": 1349286936,
+      "coords": {
+        "latitude": 47.6402614817,
+        "longitude": -122.137715206
+      }
+    },
+    {
+      "app_id": 7933375107,
+      "timestamp": 1349060005,
+      "coords": {
+        "latitude": 47.674700906128,
+        "longitude": -122.20611053343
+      }
+    },
+    {
+      "app_id": 7933375107,
+      "timestamp": 1345865056,
+      "coords": {
+        "latitude": 22.5025255,
+        "longitude": 88.3622564
+      }
+    },
+    {
+      "app_id": 7933375107,
+      "timestamp": 1345108705,
+      "coords": {
+        "latitude": 22.642685737766,
+        "longitude": 88.439828587435
+      }
+    },
+    {
+      "app_id": 7933375107,
+      "timestamp": 1344372258,
+      "coords": {
+        "latitude": 33.941992422741,
+        "longitude": -118.40208115416
+      }
+    },
+    {
+      "app_id": 7933375107,
+      "timestamp": 1341452968,
+      "coords": {
+        "latitude": 47.668594075942,
+        "longitude": -122.38001008236
+      }
+    },
+    {
+      "app_id": 7933375107,
+      "timestamp": 1339888157,
+      "coords": {
+        "latitude": 47.613842741573,
+        "longitude": -122.3211891349
+      }
+    },
+    {
+      "app_id": 7933375107,
+      "timestamp": 1338690477,
+      "coords": {
+        "latitude": 45.518948940523,
+        "longitude": -122.67924033513
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1349469905,
+      "coords": {
+        "latitude": 42.208516761167,
+        "longitude": -83.357518353583
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1347223709,
+      "coords": {
+        "latitude": 37.485919503885,
+        "longitude": -122.2291513325
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1326924550,
+      "coords": {
+        "latitude": 40.3736,
+        "longitude": -82.7755
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1317575392,
+      "coords": {
+        "latitude": 37.55671834256,
+        "longitude": -122.27587949069
+      }
+    },
+    {
+      "app_id": 123457144459646,
+      "timestamp": 1339722022,
+      "coords": {
+        "latitude": 47.686845923393,
+        "longitude": -122.21697353295
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1288979367,
+      "coords": {
+        "latitude": 47.686845923393,
+        "longitude": -122.21697353295
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1345422390,
+      "coords": {
+        "latitude": 40.765529664442,
+        "longitude": -111.89295308288
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1336265058,
+      "coords": {
+        "latitude": 40.583230508867,
+        "longitude": -111.89282438778
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1336179529,
+      "coords": {
+        "latitude": 40.425190933437,
+        "longitude": -111.76148942498
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1326595103,
+      "coords": {
+        "latitude": 40.766113464818,
+        "longitude": -111.85088702713
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1311021040,
+      "coords": {
+        "latitude": 40.6724880543,
+        "longitude": -111.888042881
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1310344432,
+      "coords": {
+        "latitude": 40.764256513695,
+        "longitude": -111.88966484662
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1309921312,
+      "coords": {
+        "latitude": 40.3361843578,
+        "longitude": -111.759499778
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1309324225,
+      "coords": {
+        "latitude": 40.3361843578,
+        "longitude": -111.759499778
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1308591208,
+      "coords": {
+        "latitude": 40.641390758719,
+        "longitude": -111.80706046261
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1308443443,
+      "coords": {
+        "latitude": 40.583230508867,
+        "longitude": -111.89282438778
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1308433409,
+      "coords": {
+        "latitude": 40.622395756905,
+        "longitude": -111.86255484645
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1308339864,
+      "coords": {
+        "latitude": 40.274509373535,
+        "longitude": -111.6816967103
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1307838858,
+      "coords": {
+        "latitude": 40.3829059333,
+        "longitude": -111.814149708
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1307234800,
+      "coords": {
+        "latitude": 40.583230508867,
+        "longitude": -111.89282438778
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1307216121,
+      "coords": {
+        "latitude": 40.765529664442,
+        "longitude": -111.89295308288
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1306281757,
+      "coords": {
+        "latitude": 40.759739796569,
+        "longitude": -111.84955159942
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1306033761,
+      "coords": {
+        "latitude": 38.850048513092,
+        "longitude": -104.87221231883
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1305915812,
+      "coords": {
+        "latitude": 40.618952338979,
+        "longitude": -111.79092238566
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1303599471,
+      "coords": {
+        "latitude": 41.0438464603,
+        "longitude": -111.636803876
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1302732797,
+      "coords": {
+        "latitude": 18.31272798354,
+        "longitude": -64.897075297372
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1363213541,
+      "coords": {
+        "latitude": 21.883812741772,
+        "longitude": -159.46968502452
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1380338189,
+      "coords": {
+        "latitude": 37.796165717988,
+        "longitude": -122.39380300161
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1374283051,
+      "coords": {
+        "latitude": 37.785202768488,
+        "longitude": -122.39631025279
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1372390961,
+      "coords": {
+        "latitude": 37.776948373403,
+        "longitude": -122.42108994327
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1371345102,
+      "coords": {
+        "latitude": 37.78453055068,
+        "longitude": -122.40336170828
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1368249743,
+      "coords": {
+        "latitude": 39.240144378932,
+        "longitude": -119.9433448537
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1365288167,
+      "coords": {
+        "latitude": 37.800400127386,
+        "longitude": -122.43912236135
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1362352581,
+      "coords": {
+        "latitude": 37.762330775399,
+        "longitude": -122.42158700851
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1361219062,
+      "coords": {
+        "latitude": 36.553898983556,
+        "longitude": -121.92265875827
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1353799680,
+      "coords": {
+        "latitude": 37.885132751454,
+        "longitude": -122.55264117251
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1353288475,
+      "coords": {
+        "latitude": 37.78453055068,
+        "longitude": -122.40336170828
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1352674248,
+      "coords": {
+        "latitude": 37.77841833706,
+        "longitude": -122.40990935726
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1350099817,
+      "coords": {
+        "latitude": 37.778420755399,
+        "longitude": -122.39439183132
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1349482275,
+      "coords": {
+        "latitude": 37.785264292536,
+        "longitude": -122.39635130072
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1348714612,
+      "coords": {
+        "latitude": 37.785264292536,
+        "longitude": -122.39635130072
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1345692727,
+      "coords": {
+        "latitude": 37.764752396128,
+        "longitude": -122.40358471039
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1344407331,
+      "coords": {
+        "latitude": 37.797365292429,
+        "longitude": -122.40327942336
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1344210283,
+      "coords": {
+        "latitude": 32.89000164152,
+        "longitude": -117.25122822917
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1344198812,
+      "coords": {
+        "latitude": 32.849442878746,
+        "longitude": -117.27200161729
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1344110545,
+      "coords": {
+        "latitude": 32.731392104827,
+        "longitude": -117.15050919642
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1367203315,
+      "coords": {
+        "latitude": 47.607991293685,
+        "longitude": -122.32600290388
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1367117997,
+      "coords": {
+        "latitude": 47.6747241575,
+        "longitude": -122.354116574
+      }
+    },
+    {
+      "app_id": 2915120374,
+      "timestamp": 1329444306,
+      "coords": {
+        "latitude": 42.229257482358,
+        "longitude": -83.346264351995
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1312831546,
+      "coords": {
+        "latitude": 47.670144168807,
+        "longitude": -122.19721103102
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1298945071,
+      "coords": {
+        "latitude": 47.670144168807,
+        "longitude": -122.19721103102
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1373820158,
+      "coords": {
+        "latitude": 47.668320447216,
+        "longitude": -122.35281420575
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1356299816,
+      "coords": {
+        "latitude": 40.759269444077,
+        "longitude": -73.981037016283
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1350796907,
+      "coords": {
+        "latitude": 37.3369645624,
+        "longitude": -122.022314072
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1344451589,
+      "coords": {
+        "latitude": 37.33631427818,
+        "longitude": -121.99413783603
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1340507739,
+      "coords": {
+        "latitude": 37.3105256,
+        "longitude": -122.0108661
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1339823674,
+      "coords": {
+        "latitude": 47.591656320062,
+        "longitude": -122.33241311463
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1334971758,
+      "coords": {
+        "latitude": 37.3750259034,
+        "longitude": -122.058342881
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1334863246,
+      "coords": {
+        "latitude": 37.3226814,
+        "longitude": -122.017107
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1332038831,
+      "coords": {
+        "latitude": 37.3105256,
+        "longitude": -122.0108661
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1330116887,
+      "coords": {
+        "latitude": 37.3228532,
+        "longitude": -122.0165794
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1329941824,
+      "coords": {
+        "latitude": 37.3815379,
+        "longitude": -121.995743
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1328388863,
+      "coords": {
+        "latitude": 36.556289369362,
+        "longitude": -121.9208300383
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1324685782,
+      "coords": {
+        "latitude": 35.140137088381,
+        "longitude": -120.64228262815
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1322183308,
+      "coords": {
+        "latitude": 37.3268591,
+        "longitude": -122.0150134
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1322080852,
+      "coords": {
+        "latitude": 37.3181813,
+        "longitude": -122.0321658
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1321827223,
+      "coords": {
+        "latitude": 37.771507348225,
+        "longitude": -122.4682120206
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1321815252,
+      "coords": {
+        "latitude": 37.7957119203,
+        "longitude": -122.393274307
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1321745777,
+      "coords": {
+        "latitude": 37.7976893209,
+        "longitude": -122.406425447
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1321743531,
+      "coords": {
+        "latitude": 37.8014718,
+        "longitude": -122.4112246
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1358712993,
+      "coords": {
+        "latitude": 37.482766010427,
+        "longitude": -122.1499174775
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1335859075,
+      "coords": {
+        "latitude": 3.19404914769,
+        "longitude": 101.634286712
+      }
+    },
+    {
+      "app_id": 2254487659,
+      "timestamp": 1317507962,
+      "coords": {
+        "latitude": 3.07355279399,
+        "longitude": 101.608800157
+      }
+    },
+    {
+      "app_id": 2254487659,
+      "timestamp": 1291431368,
+      "coords": {
+        "latitude": 3.117849048618,
+        "longitude": 101.63566078132
+      }
+    },
+    {
+      "app_id": 2254487659,
+      "timestamp": 1289706966,
+      "coords": {
+        "latitude": 3.2016465582334,
+        "longitude": 101.63215495163
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1309666896,
+      "coords": {
+        "latitude": 34.104158312192,
+        "longitude": -118.09019773602
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1304229659,
+      "coords": {
+        "latitude": 49.004000232677,
+        "longitude": 2.5707882823594
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1304173409,
+      "coords": {
+        "latitude": 48.861,
+        "longitude": 2.347
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1303553168,
+      "coords": {
+        "latitude": 48.873648258517,
+        "longitude": 2.3277313366669
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1379801223,
+      "coords": {
+        "latitude": 47.383829889438,
+        "longitude": -122.23481802622
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1368917723,
+      "coords": {
+        "latitude": 40.860746692875,
+        "longitude": -73.932768111468
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1368763914,
+      "coords": {
+        "latitude": 47.441152549488,
+        "longitude": -122.30378993023
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1364088187,
+      "coords": {
+        "latitude": 47.609573485196,
+        "longitude": -122.14166822289
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1362199484,
+      "coords": {
+        "latitude": 47.59866,
+        "longitude": -122.33461
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1352069732,
+      "coords": {
+        "latitude": 47.455605393103,
+        "longitude": -122.26001963212
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1350785200,
+      "coords": {
+        "latitude": 47.778549874579,
+        "longitude": -122.34290756611
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1350266287,
+      "coords": {
+        "latitude": 47.621438,
+        "longitude": -122.132435
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1350196846,
+      "coords": {
+        "latitude": 47.457712411667,
+        "longitude": -122.25844120868
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1350189862,
+      "coords": {
+        "latitude": 47.441702564656,
+        "longitude": -122.25947317613
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1348974824,
+      "coords": {
+        "latitude": 47.628558754619,
+        "longitude": -122.16420190118
+      }
+    },
+    {
+      "app_id": 148061315211358,
+      "timestamp": 1348946925,
+      "coords": {
+        "latitude": 47.501653411994,
+        "longitude": -122.18086450196
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1348430015,
+      "coords": {
+        "latitude": 47.734640284323,
+        "longitude": -122.34534063073
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1348429825,
+      "coords": {
+        "latitude": 47.7346021,
+        "longitude": -122.3452851
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1348368146,
+      "coords": {
+        "latitude": 47.385294765991,
+        "longitude": -122.23460072014
+      }
+    },
+    {
+      "app_id": 148061315211358,
+      "timestamp": 1348352651,
+      "coords": {
+        "latitude": 47.182407621805,
+        "longitude": -122.2952646793
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1345254992,
+      "coords": {
+        "latitude": 47.459271165101,
+        "longitude": -122.25580075774
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1344717233,
+      "coords": {
+        "latitude": 47.359505,
+        "longitude": -122.16892345
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1343590378,
+      "coords": {
+        "latitude": 47.419073,
+        "longitude": -122.296799
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1357607577,
+      "coords": {
+        "latitude": 47.441152549488,
+        "longitude": -122.30378993023
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1356798907,
+      "coords": {
+        "latitude": 46.209758120793,
+        "longitude": 6.1461326665083
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1356701193,
+      "coords": {
+        "latitude": 45.760509922417,
+        "longitude": 4.8607322957504
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1356438152,
+      "coords": {
+        "latitude": 47.800085697506,
+        "longitude": 13.04356113415
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1356420114,
+      "coords": {
+        "latitude": 48.140833333333,
+        "longitude": 11.555
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1356367402,
+      "coords": {
+        "latitude": 48.137119557878,
+        "longitude": 11.574424658414
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1356357459,
+      "coords": {
+        "latitude": 48.140833333333,
+        "longitude": 11.555
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1356088401,
+      "coords": {
+        "latitude": 50.9425,
+        "longitude": 6.9580555555556
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1356029928,
+      "coords": {
+        "latitude": 49.005409363523,
+        "longitude": 2.6023727995065
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1355966692,
+      "coords": {
+        "latitude": 47.441152549488,
+        "longitude": -122.30378993023
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1325304240,
+      "coords": {
+        "latitude": 47.441152549488,
+        "longitude": -122.30378993023
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1324856521,
+      "coords": {
+        "latitude": 40.759604976625,
+        "longitude": -73.985360104464
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1324428072,
+      "coords": {
+        "latitude": 38.908562105295,
+        "longitude": -77.043383276789
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1379692286,
+      "coords": {
+        "latitude": 47.609739687711,
+        "longitude": -122.32761044632
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1377455973,
+      "coords": {
+        "latitude": 47.650984371871,
+        "longitude": -122.34739752109
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1376802014,
+      "coords": {
+        "latitude": 47.707378077619,
+        "longitude": -122.17627435047
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1376255028,
+      "coords": {
+        "latitude": 47.704182362191,
+        "longitude": -122.50835438251
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1376249629,
+      "coords": {
+        "latitude": 47.62474088417,
+        "longitude": -122.51852174442
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1376247806,
+      "coords": {
+        "latitude": 47.635196543902,
+        "longitude": -122.5192176837
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1368240447,
+      "coords": {
+        "latitude": 47.681762053673,
+        "longitude": -122.12380818339
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1365738357,
+      "coords": {
+        "latitude": 47.675868890486,
+        "longitude": -122.20746572722
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1358969357,
+      "coords": {
+        "latitude": 47.6732223362,
+        "longitude": -122.102074918
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1358030238,
+      "coords": {
+        "latitude": 47.757899754191,
+        "longitude": -122.16037859406
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1356662487,
+      "coords": {
+        "latitude": 47.676941455168,
+        "longitude": -122.19980114041
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1350801546,
+      "coords": {
+        "latitude": 47.615103,
+        "longitude": -122.320106
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1349717548,
+      "coords": {
+        "latitude": 45.520691,
+        "longitude": -122.681819
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1349657885,
+      "coords": {
+        "latitude": 45.520987,
+        "longitude": -122.687707
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1346565725,
+      "coords": {
+        "latitude": 47.609923,
+        "longitude": -122.339018
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1343312763,
+      "coords": {
+        "latitude": 47.673447,
+        "longitude": -122.14534
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1342918932,
+      "coords": {
+        "latitude": 47.203775180981,
+        "longitude": -121.98870473658
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1342914848,
+      "coords": {
+        "latitude": 47.203113,
+        "longitude": -121.989133
+      }
+    },
+    {
+      "app_id": 97534753161,
+      "timestamp": 1342908362,
+      "coords": {
+        "latitude": 47.6167014,
+        "longitude": -122.2011101
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1336665923,
+      "coords": {
+        "latitude": 35.7500706383,
+        "longitude": -120.696773618
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1333156164,
+      "coords": {
+        "latitude": 37.366629149693,
+        "longitude": -121.92654198881
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1317450052,
+      "coords": {
+        "latitude": 47.6079140782,
+        "longitude": -120.671606352
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1315770408,
+      "coords": {
+        "latitude": 47.596252655764,
+        "longitude": -120.65973741871
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1308854784,
+      "coords": {
+        "latitude": 47.60694638757,
+        "longitude": -122.18901831809
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1304315730,
+      "coords": {
+        "latitude": 47.6079140782,
+        "longitude": -120.671606352
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1304133980,
+      "coords": {
+        "latitude": 35.752685760408,
+        "longitude": -120.69735355508
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1304111925,
+      "coords": {
+        "latitude": 35.7525,
+        "longitude": -120.695
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1304104091,
+      "coords": {
+        "latitude": 37.023744208493,
+        "longitude": -121.56415887684
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1304038250,
+      "coords": {
+        "latitude": 45.5236,
+        "longitude": -122.675
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1303582803,
+      "coords": {
+        "latitude": 47.609666773861,
+        "longitude": -122.34149921627
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1303529146,
+      "coords": {
+        "latitude": 47.707648011957,
+        "longitude": -122.21241977559
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1302994610,
+      "coords": {
+        "latitude": 47.594529980692,
+        "longitude": -120.66302365154
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1302327791,
+      "coords": {
+        "latitude": 45.519046886541,
+        "longitude": -122.67811322632
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1295756732,
+      "coords": {
+        "latitude": 47.427056266371,
+        "longitude": -120.31523924922
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1295141959,
+      "coords": {
+        "latitude": 47.6079140782,
+        "longitude": -120.671606352
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1294624061,
+      "coords": {
+        "latitude": 45.589826154968,
+        "longitude": -122.59215549793
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1294601326,
+      "coords": {
+        "latitude": 37.364979934543,
+        "longitude": -121.92379529522
+      }
+    },
+    {
+      "app_id": 135892916448833,
+      "timestamp": 1360416185,
+      "coords": {
+        "latitude": 3.04881685775,
+        "longitude": 101.622457344
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1341921329,
+      "coords": {
+        "latitude": 6.1053731414133,
+        "longitude": 100.36435056794
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1323677799,
+      "coords": {
+        "latitude": 6.36489083356,
+        "longitude": 100.351536714
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1320392291,
+      "coords": {
+        "latitude": 4.2025034052507,
+        "longitude": 103.4386159811
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1318053310,
+      "coords": {
+        "latitude": 2.2010306798867,
+        "longitude": 102.25243785611
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1317991966,
+      "coords": {
+        "latitude": 3.04540766472,
+        "longitude": 101.621476333
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1306898904,
+      "coords": {
+        "latitude": 2.98927668226,
+        "longitude": 101.639394971
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1305258910,
+      "coords": {
+        "latitude": 6.1258538491036,
+        "longitude": 116.12100181242
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1302869018,
+      "coords": {
+        "latitude": 3.0774106968209,
+        "longitude": 101.6132358074
+      }
+    },
+    {
+      "app_id": 442616890626,
+      "timestamp": 1288973094,
+      "coords": {
+        "latitude": 40.760904692944,
+        "longitude": -73.975433094979
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1375961199,
+      "coords": {
+        "latitude": 3.11470081615,
+        "longitude": 101.612499829
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1354364160,
+      "coords": {
+        "latitude": 2.71202583726,
+        "longitude": 101.914408944
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1334800942,
+      "coords": {
+        "latitude": 2.9590890158287,
+        "longitude": 101.62686934869
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1333804411,
+      "coords": {
+        "latitude": 3.1324361990761,
+        "longitude": 101.67236580484
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1333165298,
+      "coords": {
+        "latitude": 3.1495625246061,
+        "longitude": 101.64484239145
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1333109918,
+      "coords": {
+        "latitude": 3.13204454968,
+        "longitude": 101.673231244
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1329742251,
+      "coords": {
+        "latitude": 3.127277131067,
+        "longitude": 101.67865879492
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1312616792,
+      "coords": {
+        "latitude": 3.3324628207593,
+        "longitude": 101.85897501115
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1310557611,
+      "coords": {
+        "latitude": 3.1221111327464,
+        "longitude": 101.68778808109
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1309779884,
+      "coords": {
+        "latitude": 3.1180691776551,
+        "longitude": 101.67657186591
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1356639693,
+      "coords": {
+        "latitude": 34.11442309086,
+        "longitude": -117.69945278807
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1340911415,
+      "coords": {
+        "latitude": 47.911201201343,
+        "longitude": -122.09639791532
+      }
+    },
+    {
+      "app_id": 2254487659,
+      "timestamp": 1333221770,
+      "coords": {
+        "latitude": 47.4656413003,
+        "longitude": -122.243407279
+      }
+    },
+    {
+      "app_id": 442616890626,
+      "timestamp": 1301252010,
+      "coords": {
+        "latitude": 47.530572654305,
+        "longitude": -121.872847476
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1335502181,
+      "coords": {
+        "latitude": 40.760321185324,
+        "longitude": -73.98719576848
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1335446680,
+      "coords": {
+        "latitude": 40.757653681013,
+        "longitude": -73.989010591048
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1310248584,
+      "coords": {
+        "latitude": 47.28337411701,
+        "longitude": -121.92619257654
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1309379432,
+      "coords": {
+        "latitude": 47.591656320062,
+        "longitude": -122.33241311463
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1378920023,
+      "coords": {
+        "latitude": 48.4194514092,
+        "longitude": -119.510435988
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1377908958,
+      "coords": {
+        "latitude": 47.4306067021,
+        "longitude": -120.318872634
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1373062850,
+      "coords": {
+        "latitude": 47.840517096,
+        "longitude": -120.015085309
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1371751771,
+      "coords": {
+        "latitude": 47.840517096,
+        "longitude": -120.015085309
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1368129417,
+      "coords": {
+        "latitude": 47.651575253157,
+        "longitude": -117.42571554011
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1365279765,
+      "coords": {
+        "latitude": 47.100851868773,
+        "longitude": -119.24450217625
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1361319813,
+      "coords": {
+        "latitude": 47.8411050601,
+        "longitude": -120.014175195
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1358554116,
+      "coords": {
+        "latitude": 47.840806036,
+        "longitude": -120.015517556
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1356114250,
+      "coords": {
+        "latitude": 47.840806036,
+        "longitude": -120.015517556
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1354320449,
+      "coords": {
+        "latitude": 47.8411050601,
+        "longitude": -120.014175195
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1353461150,
+      "coords": {
+        "latitude": 47.433947186683,
+        "longitude": -120.32319484297
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1353208822,
+      "coords": {
+        "latitude": 47.841802931051,
+        "longitude": -120.02097888475
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1352429642,
+      "coords": {
+        "latitude": 47.44273780952,
+        "longitude": -120.32158225853
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1351272689,
+      "coords": {
+        "latitude": 47.8408730796,
+        "longitude": -120.01560774
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1350072698,
+      "coords": {
+        "latitude": 47.842137173383,
+        "longitude": -120.02189913286
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1349487379,
+      "coords": {
+        "latitude": 47.842137173383,
+        "longitude": -120.02189913286
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1349196272,
+      "coords": {
+        "latitude": 47.4306067021,
+        "longitude": -120.318872634
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1349057016,
+      "coords": {
+        "latitude": 47.628099903484,
+        "longitude": -117.36748794172
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1349036153,
+      "coords": {
+        "latitude": 47.649066534481,
+        "longitude": -117.41350251433
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1347109070,
+      "coords": {
+        "latitude": 1.6039540633833,
+        "longitude": 103.62301942206
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1331962156,
+      "coords": {
+        "latitude": 3.1731601077512,
+        "longitude": 101.70516051947
+      }
+    },
+    {
+      "app_id": 2915120374,
+      "timestamp": 1328342191,
+      "coords": {
+        "latitude": 3.1557998102853,
+        "longitude": 101.71065033558
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1327457746,
+      "coords": {
+        "latitude": 2.4274348257308,
+        "longitude": 102.21367239223
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1326972445,
+      "coords": {
+        "latitude": 3.1487808999886,
+        "longitude": 101.71333440331
+      }
+    },
+    {
+      "app_id": 2254487659,
+      "timestamp": 1320463321,
+      "coords": {
+        "latitude": 48.409447442091,
+        "longitude": -119.53027881764
+      }
+    },
+    {
+      "app_id": 173847642670370,
+      "timestamp": 1362755091,
+      "coords": {
+        "latitude": 33.4039946896,
+        "longitude": -111.658295687
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1341519024,
+      "coords": {
+        "latitude": 41.3091430125,
+        "longitude": -71.8580555456
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1336163995,
+      "coords": {
+        "latitude": 29.983720586926,
+        "longitude": -90.083567541498
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1336019075,
+      "coords": {
+        "latitude": 29.975348917909,
+        "longitude": -90.09981724096
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1332462473,
+      "coords": {
+        "latitude": 47.611535082662,
+        "longitude": -122.33785421405
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1327982118,
+      "coords": {
+        "latitude": 47.647424490773,
+        "longitude": -122.35098029981
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1326927365,
+      "coords": {
+        "latitude": 47.584789,
+        "longitude": -122.38842
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1326605839,
+      "coords": {
+        "latitude": 47.545211572493,
+        "longitude": -122.3874626629
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1326605727,
+      "coords": {
+        "latitude": 47.545211572493,
+        "longitude": -122.3874626629
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1325369859,
+      "coords": {
+        "latitude": 48.861842548203,
+        "longitude": -121.6789656581
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1320506152,
+      "coords": {
+        "latitude": 29.95750194888,
+        "longitude": -90.061997830697
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1373059551,
+      "coords": {
+        "latitude": 45.2086783012,
+        "longitude": -122.975846983
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1368832775,
+      "coords": {
+        "latitude": 45.41447255923,
+        "longitude": -122.57155871506
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1345241199,
+      "coords": {
+        "latitude": 45.986803,
+        "longitude": -123.922974
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1344962344,
+      "coords": {
+        "latitude": 44.955213035943,
+        "longitude": -124.02084791782
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1341463723,
+      "coords": {
+        "latitude": 47.957712671938,
+        "longitude": -118.98963637547
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1378435790,
+      "coords": {
+        "latitude": 47.608665900111,
+        "longitude": -122.34147892408
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1378346747,
+      "coords": {
+        "latitude": 47.595256871686,
+        "longitude": -122.33147094427
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1376367850,
+      "coords": {
+        "latitude": 47.661065578919,
+        "longitude": -122.11937844517
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1375584739,
+      "coords": {
+        "latitude": 47.469315,
+        "longitude": -122.24995
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1374202083,
+      "coords": {
+        "latitude": 47.728665951083,
+        "longitude": -122.15096811057
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1368944619,
+      "coords": {
+        "latitude": 47.613927049052,
+        "longitude": -122.31964635713
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1368932512,
+      "coords": {
+        "latitude": 47.469315,
+        "longitude": -122.24995
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1368308908,
+      "coords": {
+        "latitude": 47.469315,
+        "longitude": -122.24995
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1366591330,
+      "coords": {
+        "latitude": 33.776992175026,
+        "longitude": -84.352640496532
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1365885692,
+      "coords": {
+        "latitude": 47.469315,
+        "longitude": -122.24995
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1365375182,
+      "coords": {
+        "latitude": 47.528556498947,
+        "longitude": -121.82589379821
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1363637293,
+      "coords": {
+        "latitude": 46.612648335602,
+        "longitude": -121.40420992415
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1361344740,
+      "coords": {
+        "latitude": 47.610373221935,
+        "longitude": -122.34249137804
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1361337209,
+      "coords": {
+        "latitude": 47.608501467866,
+        "longitude": -122.33942013345
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1361329318,
+      "coords": {
+        "latitude": 47.608244779684,
+        "longitude": -122.34032868307
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1360991971,
+      "coords": {
+        "latitude": 47.665805110743,
+        "longitude": -122.11386128004
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1360983181,
+      "coords": {
+        "latitude": 47.669833638381,
+        "longitude": -122.12017048587
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1353989319,
+      "coords": {
+        "latitude": 47.608501467866,
+        "longitude": -122.33942013345
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1345260937,
+      "coords": {
+        "latitude": 44.577019426136,
+        "longitude": -123.27471096934
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1342155131,
+      "coords": {
+        "latitude": 47.610731834171,
+        "longitude": -122.31639958665
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1328984943,
+      "coords": {
+        "latitude": 47.6590423759,
+        "longitude": -122.312603991
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1317352236,
+      "coords": {
+        "latitude": 47.613795703226,
+        "longitude": -122.34717780108
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1315544369,
+      "coords": {
+        "latitude": 47.610716232606,
+        "longitude": -122.31640854666
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1305339591,
+      "coords": {
+        "latitude": 47.591656320062,
+        "longitude": -122.33241311463
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1282957077,
+      "coords": {
+        "latitude": 47.612528541578,
+        "longitude": -122.34531060263
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1282949390,
+      "coords": {
+        "latitude": 47.6135148813,
+        "longitude": -122.336023814
+      }
+    },
+    {
+      "app_id": 7933375107,
+      "timestamp": 1376964451,
+      "coords": {
+        "latitude": 47.908902372605,
+        "longitude": -116.70420809301
+      }
+    },
+    {
+      "app_id": 7933375107,
+      "timestamp": 1350679107,
+      "coords": {
+        "latitude": 61.174871515137,
+        "longitude": -149.98370334161
+      }
+    },
+    {
+      "app_id": 7933375107,
+      "timestamp": 1342462594,
+      "coords": {
+        "latitude": 47.908902372605,
+        "longitude": -116.70420809301
+      }
+    },
+    {
+      "app_id": 7933375107,
+      "timestamp": 1338948948,
+      "coords": {
+        "latitude": 48.40928873589,
+        "longitude": -119.52832535716
+      }
+    },
+    {
+      "app_id": 7933375107,
+      "timestamp": 1331335395,
+      "coords": {
+        "latitude": 33.723887320257,
+        "longitude": -116.30580009043
+      }
+    },
+    {
+      "app_id": 7933375107,
+      "timestamp": 1331157987,
+      "coords": {
+        "latitude": 47.441152549488,
+        "longitude": -122.30378993023
+      }
+    },
+    {
+      "app_id": 7933375107,
+      "timestamp": 1330818916,
+      "coords": {
+        "latitude": 47.441152549488,
+        "longitude": -122.30378993023
+      }
+    },
+    {
+      "app_id": 7933375107,
+      "timestamp": 1330720039,
+      "coords": {
+        "latitude": 33.807035241002,
+        "longitude": -117.9170908465
+      }
+    },
+    {
+      "app_id": 7933375107,
+      "timestamp": 1330709777,
+      "coords": {
+        "latitude": 33.811346899466,
+        "longitude": -117.92088666626
+      }
+    },
+    {
+      "app_id": 7933375107,
+      "timestamp": 1330294371,
+      "coords": {
+        "latitude": 47.459151347119,
+        "longitude": -122.30631724058
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1359151568,
+      "coords": {
+        "latitude": 46.3241424462,
+        "longitude": -119.991217015
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1357586902,
+      "coords": {
+        "latitude": 46.255325,
+        "longitude": -119.900101
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1350927622,
+      "coords": {
+        "latitude": 46.324593,
+        "longitude": -119.986318
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1348511154,
+      "coords": {
+        "latitude": 46.314935975427,
+        "longitude": -119.98549191575
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1343025596,
+      "coords": {
+        "latitude": 48.396743178109,
+        "longitude": -119.54688118121
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1333730613,
+      "coords": {
+        "latitude": 48.366189,
+        "longitude": -119.582533
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1323120651,
+      "coords": {
+        "latitude": 48.36055525,
+        "longitude": -119.59254133
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1380404682,
+      "coords": {
+        "latitude": 47.591656320062,
+        "longitude": -122.33241311463
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1375890926,
+      "coords": {
+        "latitude": 47.441152549488,
+        "longitude": -122.30378993023
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1372898047,
+      "coords": {
+        "latitude": 47.6245632885,
+        "longitude": -122.361027646
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1372641066,
+      "coords": {
+        "latitude": 47.659088232165,
+        "longitude": -122.3652253148
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1369523463,
+      "coords": {
+        "latitude": 47.652982347906,
+        "longitude": -122.35617163614
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1369447397,
+      "coords": {
+        "latitude": 47.222806608369,
+        "longitude": -120.99344538174
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1369444299,
+      "coords": {
+        "latitude": 47.2221195967,
+        "longitude": -120.995034431
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1367887621,
+      "coords": {
+        "latitude": 47.545437302913,
+        "longitude": -122.38742004141
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1365016436,
+      "coords": {
+        "latitude": 47.613970599081,
+        "longitude": -122.34543146245
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1361737896,
+      "coords": {
+        "latitude": 47.652982347906,
+        "longitude": -122.35617163614
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1358667907,
+      "coords": {
+        "latitude": 47.66814610861,
+        "longitude": -122.38588183037
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1358655446,
+      "coords": {
+        "latitude": 47.661365751802,
+        "longitude": -122.32006038182
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1356136352,
+      "coords": {
+        "latitude": 37.231568030785,
+        "longitude": -76.646247990482
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1356022719,
+      "coords": {
+        "latitude": 36.829440467921,
+        "longitude": -76.127393437909
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1355871464,
+      "coords": {
+        "latitude": 47.652982347906,
+        "longitude": -122.35617163614
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1349922403,
+      "coords": {
+        "latitude": 47.652982347906,
+        "longitude": -122.35617163614
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1349593040,
+      "coords": {
+        "latitude": 47.664360538334,
+        "longitude": -122.37876971024
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1348946283,
+      "coords": {
+        "latitude": 45.52215806934,
+        "longitude": -122.67251926115
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1348889358,
+      "coords": {
+        "latitude": 47.652982347906,
+        "longitude": -122.35617163614
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1348808551,
+      "coords": {
+        "latitude": 47.652982347906,
+        "longitude": -122.35617163614
+      }
+    },
+    {
+      "app_id": 2915120374,
+      "timestamp": 1324674674,
+      "coords": {
+        "latitude": 47.723741463567,
+        "longitude": -117.41189969374
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1370535455,
+      "coords": {
+        "latitude": 39.0477797642,
+        "longitude": -95.6724902739
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1370478005,
+      "coords": {
+        "latitude": 36.1248204966,
+        "longitude": -86.7358480724
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1370448509,
+      "coords": {
+        "latitude": 31.9363229624,
+        "longitude": -81.9289800633
+      }
+    },
+    {
+      "app_id": 2915120374,
+      "timestamp": 1334827112,
+      "coords": {
+        "latitude": 32.895722446552,
+        "longitude": -97.036664122983
+      }
+    },
+    {
+      "app_id": 2915120374,
+      "timestamp": 1326331005,
+      "coords": {
+        "latitude": 32.922262890784,
+        "longitude": -97.090650087684
+      }
+    },
+    {
+      "app_id": 2915120374,
+      "timestamp": 1321315096,
+      "coords": {
+        "latitude": 47.591935286039,
+        "longitude": -122.33443774343
+      }
+    },
+    {
+      "app_id": 2915120374,
+      "timestamp": 1319683313,
+      "coords": {
+        "latitude": 47.4058939333,
+        "longitude": -120.284731517
+      }
+    },
+    {
+      "app_id": 2915120374,
+      "timestamp": 1314036943,
+      "coords": {
+        "latitude": 47.842144820543,
+        "longitude": -120.02410820925
+      }
+    },
+    {
+      "app_id": 2915120374,
+      "timestamp": 1312787738,
+      "coords": {
+        "latitude": 47.4005882293,
+        "longitude": -120.259687216
+      }
+    },
+    {
+      "app_id": 2915120374,
+      "timestamp": 1312784837,
+      "coords": {
+        "latitude": 47.404452987168,
+        "longitude": -120.21008737332
+      }
+    },
+    {
+      "app_id": 2915120374,
+      "timestamp": 1312778665,
+      "coords": {
+        "latitude": 47.441152549488,
+        "longitude": -122.30378993023
+      }
+    },
+    {
+      "app_id": 2915120374,
+      "timestamp": 1312479857,
+      "coords": {
+        "latitude": 32.7557753763,
+        "longitude": -97.3317668202
+      }
+    },
+    {
+      "app_id": 2915120374,
+      "timestamp": 1308242321,
+      "coords": {
+        "latitude": 47.416703281952,
+        "longitude": -120.28777610315
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1376858060,
+      "coords": {
+        "latitude": 47.489818538458,
+        "longitude": -121.79539718752
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1376090593,
+      "coords": {
+        "latitude": 47.69035158492,
+        "longitude": -117.46013007154
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1341082153,
+      "coords": {
+        "latitude": 47.425154753988,
+        "longitude": -120.31165767145
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1375470670,
+      "coords": {
+        "latitude": 47.5518417294,
+        "longitude": -122.277888018
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1356147451,
+      "coords": {
+        "latitude": 40.495797587465,
+        "longitude": -74.445312749383
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1346193131,
+      "coords": {
+        "latitude": 38.715274175536,
+        "longitude": -75.087060775685
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1320365980,
+      "coords": {
+        "latitude": 37.069564611953,
+        "longitude": -93.224848542044
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1319448506,
+      "coords": {
+        "latitude": 35.674161001524,
+        "longitude": 139.76160899006
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1342812234,
+      "coords": {
+        "latitude": 38.036234741859,
+        "longitude": -84.896101127862
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1342371154,
+      "coords": {
+        "latitude": 38.205426557432,
+        "longitude": -85.706929685515
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1382031564,
+      "coords": {
+        "latitude": 47.81032,
+        "longitude": -122.373243
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1379444755,
+      "coords": {
+        "latitude": 47.6206340124,
+        "longitude": -122.339424288
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1379382893,
+      "coords": {
+        "latitude": 47.608177568112,
+        "longitude": -122.33492034876
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1377749199,
+      "coords": {
+        "latitude": 47.5772292736,
+        "longitude": -122.334459708
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1377554252,
+      "coords": {
+        "latitude": 47.580223757228,
+        "longitude": -122.40735231779
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1377313331,
+      "coords": {
+        "latitude": 47.5837578097,
+        "longitude": -122.3863154
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1377078336,
+      "coords": {
+        "latitude": 47.563630792185,
+        "longitude": -122.40660785316
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1377024472,
+      "coords": {
+        "latitude": 47.580037396419,
+        "longitude": -122.40772970439
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1376849894,
+      "coords": {
+        "latitude": 47.562992635185,
+        "longitude": -122.38656775777
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1376709461,
+      "coords": {
+        "latitude": 47.620458790486,
+        "longitude": -122.34945704144
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1376505138,
+      "coords": {
+        "latitude": 49.283013356638,
+        "longitude": -123.12041970214
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1374974204,
+      "coords": {
+        "latitude": 47.61819376084,
+        "longitude": -122.33907164711
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1374949967,
+      "coords": {
+        "latitude": 47.6184409353,
+        "longitude": -122.357781261
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1374377913,
+      "coords": {
+        "latitude": 47.601806153733,
+        "longitude": -122.28484509764
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1374170247,
+      "coords": {
+        "latitude": 47.6168229,
+        "longitude": -122.3296371
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1373924324,
+      "coords": {
+        "latitude": 42.349247223004,
+        "longitude": -71.083899232795
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1373910866,
+      "coords": {
+        "latitude": 40.745377338099,
+        "longitude": -74.007986334632
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1373833760,
+      "coords": {
+        "latitude": 40.759336861151,
+        "longitude": -73.985330422377
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1373580647,
+      "coords": {
+        "latitude": 40.769618035307,
+        "longitude": -73.880142390576
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1373570542,
+      "coords": {
+        "latitude": 41.974914334425,
+        "longitude": -87.898553993571
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1380062943,
+      "coords": {
+        "latitude": 39.7392,
+        "longitude": -104.984
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1378116473,
+      "coords": {
+        "latitude": 36.129398735204,
+        "longitude": -115.16591880599
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1370973587,
+      "coords": {
+        "latitude": 28.424646463511,
+        "longitude": -81.464260457069
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1361778820,
+      "coords": {
+        "latitude": 36.108253774557,
+        "longitude": -115.1545135704
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1359482399,
+      "coords": {
+        "latitude": 52.366105633686,
+        "longitude": 4.8962290543712
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1342014835,
+      "coords": {
+        "latitude": 33.191437980687,
+        "longitude": -87.526995216046
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1339745737,
+      "coords": {
+        "latitude": 36.112191747047,
+        "longitude": -115.17642744062
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1339485408,
+      "coords": {
+        "latitude": 36.128350664611,
+        "longitude": -115.16462482452
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1328554089,
+      "coords": {
+        "latitude": 18.4667,
+        "longitude": -77.9167
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1317769379,
+      "coords": {
+        "latitude": 40.759179357515,
+        "longitude": -73.985002064635
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1315365552,
+      "coords": {
+        "latitude": 39.766158331524,
+        "longitude": -86.168415583951
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1314946203,
+      "coords": {
+        "latitude": 36.109337452168,
+        "longitude": -115.17609750133
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1308990726,
+      "coords": {
+        "latitude": 47.978738784429,
+        "longitude": -122.20302916709
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1306568871,
+      "coords": {
+        "latitude": 47.608501467866,
+        "longitude": -122.33942013345
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1303547423,
+      "coords": {
+        "latitude": 47.600878295168,
+        "longitude": -122.33289498811
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1299397617,
+      "coords": {
+        "latitude": 36.1092712102,
+        "longitude": -115.153158343
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1341025253,
+      "coords": {
+        "latitude": 47.617779387911,
+        "longitude": -122.32663054696
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1299263079,
+      "coords": {
+        "latitude": 47.611205956751,
+        "longitude": -122.33124997446
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1298992124,
+      "coords": {
+        "latitude": 42.364838603261,
+        "longitude": -71.021564324162
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1298823456,
+      "coords": {
+        "latitude": 36.003708825902,
+        "longitude": -78.912121224247
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1298769927,
+      "coords": {
+        "latitude": 36.003143700129,
+        "longitude": -78.899785581391
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1298330518,
+      "coords": {
+        "latitude": 47.44273484608,
+        "longitude": -122.22616647193
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1298082017,
+      "coords": {
+        "latitude": 47.624990692806,
+        "longitude": -122.35201595655
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1289757743,
+      "coords": {
+        "latitude": 47.624585368298,
+        "longitude": -122.32537760211
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1349972547,
+      "coords": {
+        "latitude": 39.307601536279,
+        "longitude": -76.615538566486
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1349918193,
+      "coords": {
+        "latitude": 39.293682191234,
+        "longitude": -76.614620183709
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1340580432,
+      "coords": {
+        "latitude": 47.613845344143,
+        "longitude": -122.34509488174
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1340071819,
+      "coords": {
+        "latitude": 47.648674918045,
+        "longitude": -122.32344439238
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1337485887,
+      "coords": {
+        "latitude": 47.66810101232,
+        "longitude": -122.31319538422
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1331356205,
+      "coords": {
+        "latitude": 47.557200974925,
+        "longitude": -122.28427220604
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1322941489,
+      "coords": {
+        "latitude": 47.667691402475,
+        "longitude": -122.38489750181
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1310046549,
+      "coords": {
+        "latitude": 20.686151508143,
+        "longitude": -89.652893525632
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1332869897,
+      "coords": {
+        "latitude": 47.651272082975,
+        "longitude": -122.1456117978
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1332481054,
+      "coords": {
+        "latitude": 47.680696454174,
+        "longitude": -122.12330517203
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1330029092,
+      "coords": {
+        "latitude": 47.6708724029,
+        "longitude": -122.119043185
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1329429607,
+      "coords": {
+        "latitude": 47.668463005605,
+        "longitude": -122.10436160124
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1323902389,
+      "coords": {
+        "latitude": 47.666424329607,
+        "longitude": -122.10172562907
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1323512512,
+      "coords": {
+        "latitude": 47.630112776047,
+        "longitude": -122.14322753614
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1323512428,
+      "coords": {
+        "latitude": 47.630112776047,
+        "longitude": -122.14322753614
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1323500426,
+      "coords": {
+        "latitude": 47.621732359072,
+        "longitude": -122.34799392757
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1323496047,
+      "coords": {
+        "latitude": 47.517935033134,
+        "longitude": -122.29648439769
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1323314698,
+      "coords": {
+        "latitude": 47.603600727896,
+        "longitude": -122.33513232446
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1321591449,
+      "coords": {
+        "latitude": 47.614824846626,
+        "longitude": -122.1949952532
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1321298229,
+      "coords": {
+        "latitude": 47.6708724029,
+        "longitude": -122.119043185
+      }
+    },
+    {
+      "app_id": 2915120374,
+      "timestamp": 1321077778,
+      "coords": {
+        "latitude": 47.617499690943,
+        "longitude": -122.20278116296
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1320886219,
+      "coords": {
+        "latitude": 47.6168229,
+        "longitude": -122.3296371
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1314580459,
+      "coords": {
+        "latitude": 47.6114112308,
+        "longitude": -122.333343643
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1314406741,
+      "coords": {
+        "latitude": 47.613257423974,
+        "longitude": -122.33132350609
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1314406681,
+      "coords": {
+        "latitude": 47.6114112308,
+        "longitude": -122.333343643
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1314320538,
+      "coords": {
+        "latitude": 47.610869543514,
+        "longitude": -122.33266816568
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1372903537,
+      "coords": {
+        "latitude": 47.595158034869,
+        "longitude": -122.33169867997
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1372044226,
+      "coords": {
+        "latitude": 47.372879923468,
+        "longitude": -122.20407596267
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1342194280,
+      "coords": {
+        "latitude": 47.6425919833,
+        "longitude": -117.43496285
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1301431653,
+      "coords": {
+        "latitude": 47.441152549488,
+        "longitude": -122.30378993023
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1297048089,
+      "coords": {
+        "latitude": 47.275,
+        "longitude": -122.762
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1296616085,
+      "coords": {
+        "latitude": 47.275,
+        "longitude": -122.762
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1382315595,
+      "coords": {
+        "latitude": 37.7877579194,
+        "longitude": -122.421610752
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1380227145,
+      "coords": {
+        "latitude": 37.3758874042,
+        "longitude": -122.01506858
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1372578206,
+      "coords": {
+        "latitude": 37.787990138347,
+        "longitude": -122.39727028423
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1366493273,
+      "coords": {
+        "latitude": 36.973433372939,
+        "longitude": -122.02648670671
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1361993549,
+      "coords": {
+        "latitude": 37.404394885078,
+        "longitude": -121.97447834538
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1359151432,
+      "coords": {
+        "latitude": 47.602299430771,
+        "longitude": -122.33240237033
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1359058525,
+      "coords": {
+        "latitude": 47.600140659049,
+        "longitude": -122.33426047092
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1357955429,
+      "coords": {
+        "latitude": 37.617795497547,
+        "longitude": -122.3869971337
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1357213033,
+      "coords": {
+        "latitude": 52.530928391875,
+        "longitude": 13.384870414185
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1357119671,
+      "coords": {
+        "latitude": 52.555069633023,
+        "longitude": 13.290555762666
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1356296625,
+      "coords": {
+        "latitude": 37.617795497547,
+        "longitude": -122.3869971337
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1354938911,
+      "coords": {
+        "latitude": 37.33631427818,
+        "longitude": -121.99413783603
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1342067716,
+      "coords": {
+        "latitude": 37.322690740257,
+        "longitude": -121.93209914192
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1341438200,
+      "coords": {
+        "latitude": 37.314900335493,
+        "longitude": -121.97784013198
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1338318546,
+      "coords": {
+        "latitude": 37.322475541749,
+        "longitude": -122.01792969188
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1338178709,
+      "coords": {
+        "latitude": 37.8065581502,
+        "longitude": -122.44241987421
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1337366524,
+      "coords": {
+        "latitude": 37.33631427818,
+        "longitude": -121.99413783603
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1336331519,
+      "coords": {
+        "latitude": 37.426856029999,
+        "longitude": -122.14424227885
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1335727221,
+      "coords": {
+        "latitude": 37.42813721411,
+        "longitude": -121.90645131955
+      }
+    },
+    {
+      "app_id": 6628568379,
+      "timestamp": 1334863324,
+      "coords": {
+        "latitude": 37.322528180617,
+        "longitude": -122.01693627965
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1378582627,
+      "coords": {
+        "latitude": 47.182407621805,
+        "longitude": -122.2952646793
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1369514890,
+      "coords": {
+        "latitude": 47.662091926876,
+        "longitude": -122.28072147536
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1366513581,
+      "coords": {
+        "latitude": 47.673187,
+        "longitude": -122.122871
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1363199103,
+      "coords": {
+        "latitude": 47.516205503136,
+        "longitude": -122.35537340001
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1361040935,
+      "coords": {
+        "latitude": 47.620926074912,
+        "longitude": -122.35227637823
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1358649963,
+      "coords": {
+        "latitude": 47.624029280016,
+        "longitude": -122.35085176715
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1358380950,
+      "coords": {
+        "latitude": 47.606981841716,
+        "longitude": -122.33804795363
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1352244013,
+      "coords": {
+        "latitude": 47.605282060558,
+        "longitude": -122.34059116471
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1352152018,
+      "coords": {
+        "latitude": 47.530139115644,
+        "longitude": -122.03710966079
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1351913048,
+      "coords": {
+        "latitude": 47.521207541949,
+        "longitude": -122.37708132414
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1348337381,
+      "coords": {
+        "latitude": 47.182407621805,
+        "longitude": -122.2952646793
+      }
+    },
+    {
+      "app_id": 173847642670370,
+      "timestamp": 1334428485,
+      "coords": {
+        "latitude": 47.466709460829,
+        "longitude": -122.34039001549
+      }
+    },
+    {
+      "app_id": 350685531728,
+      "timestamp": 1371232644,
+      "coords": {
+        "latitude": 48.105474,
+        "longitude": -119.7835
+      }
+    }
+  ]
+}
